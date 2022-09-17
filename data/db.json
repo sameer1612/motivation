@@ -1,0 +1,19 @@
+{
+  "motivations": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux toolkit",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Learn Real JavaScript",
+      "completed": false
+    }
+  ]
+}
